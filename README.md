@@ -29,9 +29,9 @@ Test three hypotheses:
 ### Stages 
 Data on user behavior is stored in the file `/datasets/music_project_en.csv`. There is no information about the quality of the data, so you will need to explore it before testing the hypotheses. 
 
-First, you'll evaluate the quality of the data and see whether its issues are significant. Then, during data preprocessing, you will try to account for the most critical problems.
+First, I'll evaluate the quality of the data and see whether its issues are significant. Then, during data preprocessing, I will try to account for the most critical problems.
  
-Your project will consist of three stages:
+The project will consist of three stages:
  1. Data overview
  2. Data preprocessing
  3. Testing the hypotheses
