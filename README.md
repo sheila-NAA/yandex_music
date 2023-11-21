@@ -16,6 +16,8 @@
     * [3.3 Hypothesis 3: genre preferences in Springfield and Shelbyville](#genre)
 * [Findings](#end)
 
+ps. the table of content is a breakdown of the project.
+
 ## Introduction <a id='intro'></a>
 Whenever we're doing research, we need to formulate hypotheses that we can then test. Sometimes we accept these hypotheses; other times, we reject them. To make the right decisions, a business must be able to understand whether or not it's making the right assumptions.
 
